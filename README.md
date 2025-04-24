@@ -1,4 +1,4 @@
-# Deskripsi Proyek: Text Classification untuk Deteksi Depresi
+# Text Classification untuk Deteksi Depresi
 
 ## Pendahuluan
 Proyek ini bertujuan untuk mengembangkan model klasifikasi teks yang dapat mendeteksi depresi berdasarkan input teks yang diberikan. Dengan menggunakan teknik pemrosesan bahasa alami (NLP) dan algoritma pembelajaran mesin, proyek ini bertujuan untuk memberikan wawasan tentang bagaimana teks dapat dianalisis untuk mengidentifikasi tanda-tanda depresi.
